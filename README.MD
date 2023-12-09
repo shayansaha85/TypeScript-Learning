@@ -1,4 +1,4 @@
-# TOPICS IN TYPESCRIPT
+# Topics in Typescript
 ```
 - Basic Syntax and Types
 - Functions and Arrow Functions
